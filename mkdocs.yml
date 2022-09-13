@@ -24,9 +24,9 @@ site_url: https://squidfunk.github.io/mkdocs-material-example-versioning/
 site_author: Martin Donath
 
 # Repository
-repo_name: tevfiksirin/mkdocs-material-example-versioning
-repo_url: https://github.com/tevfiksirin/mkdocs-material-example-versioning
-edit_uri: ""
+# repo_name: tevfiksirin/mkdocs-material-example-versioning
+# repo_url: https://github.com/tevfiksirin/mkdocs-material-example-versioning
+# edit_uri: ""
 
 # Configuration
 theme:
