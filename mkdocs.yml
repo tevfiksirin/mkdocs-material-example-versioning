@@ -19,13 +19,13 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: My Docs
+site_name: Line Docs
 site_url: https://squidfunk.github.io/mkdocs-material-example-versioning/
 site_author: Martin Donath
 
 # Repository
-repo_name: squidfunk/mkdocs-material-example-versioning
-repo_url: https://github.com/squidfunk/mkdocs-material-example-versioning
+repo_name: tevfiksirin/mkdocs-material-example-versioning
+repo_url: https://github.com/tevfiksirin/mkdocs-material-example-versioning
 edit_uri: ""
 
 # Configuration
@@ -37,3 +37,8 @@ theme:
 extra:
   version:
     provider: mike
+plugins:
+  - search
+  - mkdocs_pymdownx_material_extras
+markdown_extensions:
+  - pymdownx.details
