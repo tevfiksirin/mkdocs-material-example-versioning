@@ -32,6 +32,7 @@ site_author: Martin Donath
 theme:
   name: material
   custom_dir: overrides
+  logo: assets/logo.png
 
 # Customization
 extra:
